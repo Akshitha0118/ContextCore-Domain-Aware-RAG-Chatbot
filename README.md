@@ -1,4 +1,4 @@
-# 🚀Generative-AI-Custom-Chatbot-with-RAG-Pipeline
+# 🚀ContextCore-Domain-Aware-RAG-Chatbot
 
 Turn any PDF into an intelligent AI-powered Q&A system using Retrieval-Augmented Generation (RAG).
 
